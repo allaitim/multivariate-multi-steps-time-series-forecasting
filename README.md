@@ -22,6 +22,7 @@ matplotlib
 
 autots
 
+
 In the models, the stock price data of Apple is used. It was downloaded from Yahoo Finance. 
 
 
@@ -31,9 +32,10 @@ Train_autots -- training and forecasting for 20 days with the autots library;
 
 functions -- is the lstm model and helper functions;
 
-saveautots -- contain the forecasted data for 20 days by model from autots library.
+saveautots -- contain the forecasted data for 20 days by model from autots library;
 
-model-multi --contain the results of the training the lstm model
+model-multi --contain the results of the training the lstm model.
+
 
 
 To apply the model to a different dataset, use the train.py scripts;  n_stepsin and n_stepsout can be rewritten depending on the application.
