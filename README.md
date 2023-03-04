@@ -6,12 +6,19 @@ LSTM model is a modification of the traditional lstm model ; its parameters can 
 Autots is a Python automatic machine learning library developed for automatic time series forecasting.
 
 Requirements:
+
 tensorflow
+
 pandas
+
 keras
+
 sklearn
+
 numpy
+
 matplotlib
+
 autots
 
 In the models, the stock price data of Apple is used. It was downloaded from Yahoo Finance. 
